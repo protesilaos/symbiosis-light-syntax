@@ -15,3 +15,8 @@
   - `dt1` from `919D9C` to `A1ADAC`
   - `lt2` from `9C9A99` to `8C8A89`
   - `lt1` from `5C5A59` to `4C4A49`
+
+## 1.2.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
