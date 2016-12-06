@@ -22,6 +22,6 @@ apm install symbiosis-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/symbiosis](http://www.protesilaos.com/symbiosis)
+Project page: [https://protesilaos.com/symbiosis](https://protesilaos.com/symbiosis)
 
 Symbiosis dark version: [https://atom.io/themes/symbiosis-dark-syntax](https://atom.io/themes/symbiosis-dark-syntax)
