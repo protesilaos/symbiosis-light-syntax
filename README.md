@@ -4,13 +4,18 @@ Medium-to-high contrast theme, loosely inspired by the Metroid video game series
 
 *Symbiosis* comes in separate light and dark versions (see further info below).
 
-## Screenshot
+## Screenshots
 
-![symbiosis light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_light_sample.png)
+![symbiosis light screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_light_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![symbiosis light screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_light_scss.png)
+
+![symbiosis light screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_light_js.png)
+
+![symbiosis light screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_light_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
